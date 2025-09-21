@@ -41,3 +41,12 @@ Commands:
   doctor                                            Check the health of your Claude Code auto-updater
   update                                            Check for updates and install if available
   install [options] [target]                        Install Claude Code native build. Use [target] to specify version (stable, latest, or specific version)
+
+  ====
+
+npm config get registry
+# 如果需要，可以设置国内镜像
+
+npm config set registry https://registry.npmmirror.com/
+npm config set registry https://bnpm.byted.org/
+
