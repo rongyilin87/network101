@@ -51,6 +51,9 @@ wheels/
 *.log
 logs/
 
+# Development notes
+.dev.notes/
+
 # Environment variables
 .env
 .env.local
