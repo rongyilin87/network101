@@ -5,7 +5,11 @@
       "Bash(python3:*)",
       "Bash(tree:*)",
       "Bash(grep:*)",
-      "Bash(find contents -name \"introduction.md\" -exec grep -l \"未开始编写\" {} ;)"
+      "Bash(find contents -name \"introduction.md\" -exec grep -l \"未开始编写\" {} ;)",
+      "Bash(while read file)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(head:*)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []
