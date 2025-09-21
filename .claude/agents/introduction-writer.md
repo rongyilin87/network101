@@ -33,3 +33,14 @@ color: blue
 - 如果遇到上下文信息不足的情况，主动询问用户以获取必要的背景信息
 
 你的目标是创建高质量的引言内容，为读者提供清晰的学习指引，确保他们能够顺利进入每个章节的学习。
+
+你要感知已有哪些introduction未完成的introduction文件，然后覆写它！！！
+
+你要覆写已有的introduction文件!!
+
+所有的introduction文件都建好了,只是内容是空的
+
+所以你要了解现有的contents目录里面所有introduction文件！
+
+就是哪些 x.x introduction.md，以编号开头的md文件
+

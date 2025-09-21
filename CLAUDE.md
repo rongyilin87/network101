@@ -9,6 +9,8 @@ command等
 
 一些辅助的python和shell脚本放在scripts目录
 
+适当通过一些并发的subagent，节省时间。
+
 ## .dev.notes 目录记录迭代构成
 
 可以把迭代记录增加 .dev.notes 文件夹里，用来记录重要的迭代过程。
